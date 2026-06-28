@@ -15,3 +15,6 @@ Another review-free merge for the YOLO achievement.
 
 ## YOLO 3
 Third review-free merge for the YOLO achievement.
+
+## Pair Extraordinaire 2
+Co-authored work for the Pair Extraordinaire badge.
